@@ -5,4 +5,4 @@ steps to run -
 
 ruby GameOfLife.rb
 
-Made this on the go for a session. Needs improvement. Happy to listen to your views
+Made this on the go for a session. Needs improvement.
